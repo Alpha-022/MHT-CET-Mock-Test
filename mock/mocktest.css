@@ -1,0 +1,58 @@
+body {
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: bolder;
+    margin-left: 2rem;
+}
+div{ display: block;
+padding: 10px}
+
+#top {
+    text-align: center;
+    background-color: #757575;
+    color: #212121;
+    font-weight: bold;
+}
+
+#head {
+    padding-left: 10px;
+    padding-top: 2px;
+    color: #4CAF50;
+}
+
+.button {
+    transition-duration: 0.4s;
+    background-color: #4CAF50;
+    color: white;
+    border: 2px solid #4CAF50; /* Green */
+    font-size: 18px;
+    padding: 10px 30px;
+    border-radius: 12px;
+    transition-duration: 0.4s;
+  }
+  
+  .button:hover {
+    background-color: white; /* Green */
+  color: black;
+    
+  }
+  
+input {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 50%;
+    width: 16px;
+    height: 16px;
+    border: 2px solid #999;
+    transition: 0.2s all linear;
+    margin-right: 5px;
+    position: relative;
+    top: 4px;
+}
+
+input:checked {
+    border: 6px solid #4CAF50;
+    outline: unset !important/* I added this one for Edge (chromium) support */
+}
