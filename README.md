@@ -14,6 +14,7 @@ MHT-CET is an Engineering entrance in Maharashtra. Our website will help student
 # Project Description
 
 We have created a Website to help students prepare for Maharashtra's Engineering Entrance (MHT-CET). Our website has syllabus, top colleges list as well as previous cut-offs and most interesting highlighting feature is mock test. This mocktest is designed using previous years questions, you'll be able to see score instantly after submitting. We have bot in contacts page which will help you and ypu can give feedback too via contact page. For bot we have used Azure bot service. And I have hosted this website on Azure Static Web Apps.
+
 ## Azure Technologies
 
 1. Azure Static Web Apps
@@ -44,13 +45,9 @@ We have created a Website to help students prepare for Maharashtra's Engineering
 ![Website Screenshot](https://github.com/Alpha-022/MHT-CET-Mock-Test/blob/main/Screenshots/Screenshot10.png)
 
 ## Note 
-Default username abd password to log in into mock test is "Alpha" & "Alpha" respectively. But I have disabled it so you can login directly and review this project.
+Default username abd password to log in into mock test is "**Alpha**" & "**Alpha**" respectively. But I have disabled it so you can login directly and review this project.
 
-## Used By
-
-This project is created for:
-
-- Future Ready Talent Internship
+__This project is created for Future Ready Talent Internship__
 
 ## Authors
 
